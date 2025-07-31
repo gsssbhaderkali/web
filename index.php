@@ -93,6 +93,7 @@
     </style>
 </head>
 <body>
+    <?php echo "hi"; ?>
     <header>
         <h1>Computer Science Student Projects</h1>
         <p>Curated by <span id="teacherName">[Teacher Name]</span><br>
